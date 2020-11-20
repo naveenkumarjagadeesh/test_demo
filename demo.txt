@@ -2,7 +2,5 @@ This is first line.
 
 this is second line.
 
-This is third line
-
 This is a testing branch and it is diffrent from the master branch.
 
